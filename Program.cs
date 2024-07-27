@@ -109,7 +109,7 @@ Console.WriteLine(math.Divide(10, 20));
 
 #region part 3
 //internal class duration
-//{
+////{
 //    public int Hours { get; set; }
 //    public int Minutes { get; set; }
 //    public int Seconds { get; set; }
